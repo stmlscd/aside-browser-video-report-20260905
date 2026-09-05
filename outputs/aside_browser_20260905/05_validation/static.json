@@ -1,0 +1,21 @@
+{
+  "html": "/Users/m1.max/Documents/m1max/aside-browser-video-report-20260905/outputs/aside_browser_20260905/04_html_report/index.html",
+  "checks": {
+    "lang_present": true,
+    "viewport_present": true,
+    "single_h1": true,
+    "has_sections": true,
+    "local_assets_exist": true,
+    "blank_links_safe": true
+  },
+  "missing_assets": [],
+  "local_assets": [
+    "assets/report-data.js",
+    "assets/report.css",
+    "assets/report.js",
+    "assets/video.webp"
+  ],
+  "blank_without_noopener": [],
+  "section_count": 12,
+  "pass": true
+}

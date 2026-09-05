@@ -1,0 +1,26 @@
+[
+  {
+    "file": "changelog-components.md",
+    "url": "https://docs.aside.com/changelog/components.md",
+    "http": 200,
+    "bytes": 54188,
+    "sha256": "2c0eebc255407216ec10a92f63b42b1fe715294b5982d8704d004d02329981d2",
+    "checked_at": "2026-09-05T13:25:36.217302+00:00"
+  },
+  {
+    "file": "changelog-native.md",
+    "url": "https://docs.aside.com/changelog/native.md",
+    "http": 200,
+    "bytes": 26057,
+    "sha256": "0b4541d1344a86246ca91fd37e40bf6b9c35588c07c2166352805db9c93844d9",
+    "checked_at": "2026-09-05T13:25:36.536284+00:00"
+  },
+  {
+    "file": "download.html",
+    "url": "https://aside.com/download",
+    "http": 200,
+    "bytes": 67287,
+    "sha256": "1cb1f13b18ae8600e20276a674889c4eb1fb4d3bb22f30c8654676f56d48e1e1",
+    "checked_at": "2026-09-05T13:25:36.597430+00:00"
+  }
+]

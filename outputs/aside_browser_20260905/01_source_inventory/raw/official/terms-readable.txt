@@ -1,0 +1,134 @@
+Aside | Terms of Service
+Features
+Use cases
+Resources
+Pricing
+Download
+Terms of Service
+Last updated: June 19, 2026
+These Terms of Service ("Terms") apply when you use Aside, the AI browser made by Aside Computer Inc. ("Aside," "we," "us," or "our"). Aside includes the browser, password manager, browser automation tools, websites, applications, and paid or free plans. These Terms call them the "Services."
+By using the Services, you agree to these Terms.
+Aside is a browser with an agent inside it. That means the Services can do ordinary browser things, like opening pages, filling forms, downloading files, reading notifications, and using saved credentials, when you authorize that behavior.
+If you use the Services on behalf of a company, team, school, or other organization, you represent that you have authority to bind that organization to these Terms. If you do not agree to these Terms, do not use the Services.
+1. Eligibility
+You must be at least 13 years old to create an account or use the Services. If you are under the age of majority where you live, you need permission from a parent or legal guardian who agrees to these Terms.
+You also need to be legally able to enter into these Terms. Do not use the Services if applicable law, your employer's policies, school policies, contractual obligations, or other duties prohibit it.
+2. Accounts
+You are responsible for your account, devices, browser profile, credentials, permissions, and activity under your account. Keep your account and billing information accurate and current.
+If a company, team, school, or other organization provides your account, that organization can manage it. Depending on the plan and configuration, it can restrict access, view logs, control settings, and access content tied to the account.
+3. License
+If you comply with these Terms, Aside gives you a limited, non-exclusive, non-transferable, non-sublicensable license to install and use the software we provide as part of the Services for your personal or internal business purposes.
+You may not copy, modify, reverse engineer, decompile, attempt to extract source code from, rent, sell, distribute, sublicense, or provide hosted access to the software except to the extent applicable law expressly allows you to do so.
+The software may include open-source components governed by their own licenses. To the extent an open-source license gives you rights that differ from these Terms, that open-source license controls for the applicable component.
+4. Updates and Communications
+The Services may check for, download, and install updates automatically. Updates can include security patches, reliability fixes, and new or changed features. These Terms apply to updates unless we provide different terms.
+The Services may send service announcements, security notices, billing messages, product messages, browser notifications, local notifications, push notifications, and similar communications. You can control some notifications in the Services or through your operating system. We may still send important administrative or security messages where the law permits.
+5. AI and Browser Automation
+Aside can use browser context, browsing history, cookies, passwords, passkeys, notifications, webpages, files, and related data to help you complete tasks. Some features run locally by default. Others need network access, third-party websites, third-party AI models, cloud execution, account sync, or service providers.
+When you ask Aside to act, you authorize us to access, process, and use the information and accounts you provide or make available for that task. You are responsible for making sure you have the right to use the Services with the websites, accounts, data, and workflows you direct Aside to access.
+Examples help set the boundary. If you ask Aside to book a room, draft an email, retrieve a document, or issue an instruction inside a business tool, you are asking the Services to use the relevant account, page, credential, file, or browser context for that task.
+AI systems are probabilistic. Output can be wrong, incomplete, outdated, offensive, infringing, unsafe, or unsuitable for your use. Review output and actions before relying on them. Be especially careful with messages, purchases, payments, bookings, account changes, data deletion, publication, sensitive information, and anything with legal, financial, reputational, or irreversible effects.
+Webpages, documents, emails, and other third-party content may contain hidden or visible instructions that try to influence AI systems. The Services may not catch every prompt injection, malicious instruction, or unsafe context.
+Do not use output as a substitute for professional legal, medical, financial, tax, security, or other expert advice.
+6. User Content and Output
+You may provide prompts, instructions, browser context, webpage content, files, settings, workflows, feedback, and other materials to the Services ("User Content"). The Services may return answers, summaries, recommendations, automated actions, or other output ("Output").
+You keep the rights you have in User Content. As between you and Aside, you own Output generated for you by the Services, subject to applicable law, third-party rights, and these Terms. We do not promise that Output is unique to you. Similar or identical output may be generated for other users.
+You grant Aside a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to host, store, reproduce, modify, display, transmit, process, analyze, and otherwise use User Content and Output so we can provide, maintain, secure, develop, improve, and enforce the Services. If User Content or Output contains personal information, this license is subject to our Privacy Policy.
+By default, we do not use your User Content, Output, browser context, browsing history, password manager data, or files to train AI models. For providers that support it, we configure third-party AI model providers with zero-data-retention, no-training, or equivalent settings for data processed through the Services.
+7. Acceptable Use
+You agree not to use the Services to:
+break the law or harm, deceive, harass, defraud, or discriminate against others;
+access or interfere with another person's account, system, data, website, or service without authorization;
+collect, disclose, or process personal information in violation of law or third-party rights;
+distribute spam, phishing, malware, harmful code, fake reviews, deceptive messages, or abusive content;
+place unreasonable load on the Services or bypass rate limits, access controls, usage limits, or security measures;
+violate intellectual property, privacy, publicity, contract, employment, confidentiality, or other rights;
+make automated decisions with legal or similarly significant effects on a person unless you have appropriate human review and legal authority;
+develop, benchmark, or improve a competing product, model, or service in a way that violates these Terms or applicable law;
+misrepresent Output as human-generated where doing so would be deceptive or unlawful;
+remove, obscure, or alter safety notices, audit logs, attribution, legal notices, or proprietary notices;
+export, re-export, transfer, or use the Services in violation of U.S. export controls, sanctions, or other trade restrictions.
+8. Third-Party Services
+The Services may let you access, automate, or interact with third-party websites, platforms, extensions, models, payment processors, cloud services, and other external services. Third-party services are governed by their own terms and privacy policies.
+Aside does not control or endorse third-party services. We are not responsible for their content, availability, security, privacy practices, transactions, instructions, or actions. You are responsible for following third-party terms when you use the Services with them.
+Enable extensions, connectors, agents, skills, applications, and third-party services only if you know and trust them. They may receive information from the Services or from websites you visit.
+9. Plans, Subscriptions, and Billing
+We may offer free, paid, team, enterprise, usage-based, beta, and promotional plans. Plan features, usage limits, model availability, rate limits, and performance can vary by plan and change over time.
+Paid plans are billed in advance on a recurring basis unless stated otherwise at checkout. When you buy a paid plan, you authorize us and our payment processor to charge your payment method for applicable fees, taxes, renewal charges, usage-based charges, upgrades, add-ons, and other amounts described at checkout or in the billing page.
+Your subscription continues until canceled. Unless we state otherwise, cancellation takes effect at the end of the then-current billing period, and you will continue to have access to the paid plan until that period ends. You must cancel before the end of the current billing period to avoid renewal charges.
+If a payment fails, we may retry the charge, suspend or downgrade your plan, restrict paid features, or terminate access to the Services. Unless required by law or expressly stated in the purchase flow, payments are non-refundable.
+Promotional credits, discounts, beta access, and other offers may have additional terms.
+Payments may be processed by a third-party payment processor. Your payment method can also be subject to the payment processor's terms and privacy policy.
+10. Intellectual Property
+The Services, software, design, logos, trademarks, code, product features, documentation, and related materials are owned by Aside or our licensors. Except for the limited license in these Terms, we do not grant you any ownership rights in the Services.
+You may not use Aside's name, trademarks, logos, or branding without our prior written permission. Nothing in these Terms restricts your ability to share honest reviews or opinions about the Services.
+11. Copyright Complaints
+If you believe content available through the Services infringes your copyright, contact us at
+support@aside.com
+. Include enough information for us to identify the copyrighted work, the allegedly infringing material, your contact information, and a statement that you have a good-faith belief that the use is not authorized. We may remove or disable access to allegedly infringing material and may terminate repeat infringers where appropriate.
+12. Privacy
+Our Privacy Policy explains how we collect, use, and share information. By using the Services, you acknowledge the Privacy Policy.
+13. Service Changes and Beta Features
+We may add, change, suspend, or discontinue features or Services. We will provide reasonable notice for material changes when practical. We are not required to maintain any particular feature or functionality.
+If we discontinue a paid Service before the end of your prepaid subscription period, we will provide notice and any refund or credit required by law or expressly stated in the applicable plan terms.
+Some features may be labeled beta, preview, experimental, waitlist, or early access. These features can be less reliable, change quickly, contain errors or security issues, and cause failures, corruption, or loss of data.
+14. Suspension and Termination
+We may suspend, restrict, or terminate your access to the Services if we reasonably believe that:
+you violated these Terms or applicable law;
+your account or use of the Services creates security, legal, operational, reputational, privacy, or safety risk;
+your account is involved in fraud, abuse, unauthorized access, or harmful activity;
+continuing to provide the Services would expose Aside, users, third parties, or the public to harm or liability;
+we are required or permitted to do so by law, court order, regulator request, platform rule, or third-party service requirement.
+We may act without prior notice where immediate action is reasonably necessary, including to prevent harm, preserve security, comply with law, protect evidence, or prevent further misuse. You may stop using the Services at any time.
+Account termination, cancellation, deletion, or suspension may result in loss of access to your account, settings, sync data, vault data, User Content, Output, chats, files, usage history, and other data associated with the Services. We may retain certain information after termination when reasonably needed for security, abuse prevention, legal compliance, dispute resolution, billing, enforcement, backup integrity, or as described in our Privacy Policy.
+If you believe we suspended or terminated your account in error, you may contact us at
+support@aside.com
+.
+15. Disclaimers
+The Services and Output are provided "as is" and "as available." To the maximum extent permitted by law, Aside disclaims all warranties, whether express, implied, statutory, or otherwise, including warranties of merchantability, fitness for a particular purpose, title, non-infringement, accuracy, reliability, availability, security, and error-free operation.
+We do not warrant that the Services or Output will meet your needs, be uninterrupted, be secure, be accurate, or be free from errors, harmful components, data loss, prompt injections, unauthorized third-party instructions, or unintended actions. We are not responsible for actions you take based on Output or for third-party content, websites, services, models, or materials accessed through the Services.
+16. Limitation of Liability
+To the fullest extent permitted by law, Aside and our officers, directors, employees, affiliates, suppliers, and partners will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages. This includes loss of profits, revenue, data, goodwill, business opportunities, service availability, account access, credentials, or the cost of substitute services, even if we knew or should have known that such damages were possible.
+To the fullest extent permitted by law, Aside's total liability for all claims relating to the Services or these Terms will not exceed the greater of (a) the amount you paid to Aside for the Services in the 12 months before the claim arose or (b) USD $100.
+17. Indemnity
+To the extent permitted by law, you agree to defend, indemnify, and hold harmless Aside and our officers, directors, employees, affiliates, suppliers, and partners from and against claims, damages, losses, liabilities, costs, and expenses, including reasonable attorneys' fees, arising from your use of the Services, User Content, Output usage, your violation of these Terms, your violation of law, your violation of third-party terms, or your violation of third-party rights.
+18. Governing Law and Venue
+These Terms are governed by the laws of the State of California and applicable U.S. federal law, without regard to conflict-of-law rules, except that mandatory consumer protection laws of your place of residence can also apply where required by law.
+Before filing a claim, you agree to contact us at
+support@aside.com
+and try to resolve the dispute informally. If a dispute is not resolved informally, the state and federal courts located in San Francisco County, California will have exclusive jurisdiction, except where applicable law gives you the right to bring claims in another forum.
+19. Changes to These Terms
+We may update these Terms. If we make material changes, we will provide notice by posting the updated Terms, sending an email, providing an in-product notice, or using another reasonable method. Your continued use of the Services after the effective date of updated Terms means you accept the updated Terms.
+20. Miscellaneous
+These Terms are the entire agreement between you and Aside regarding the Services. If any provision is found unenforceable, the remaining provisions will remain in effect. You may not assign these Terms without our prior written consent. Aside may assign these Terms in connection with a merger, acquisition, financing, reorganization, or sale of assets.
+Our failure to enforce a provision is not a waiver of our right to do so later. Sections that by their nature should survive termination will survive, including provisions on intellectual property, disclaimers, liability limits, indemnity, governing law, and dispute resolution.
+21. Contact
+Send questions about these Terms to:
+Aside Computer Inc.
+45 Lansing St, San Francisco, CA 94105
+support@aside.com
+Crafted for both human and agent.
+Start using today.
+Download
+Features
+Browser agent
+Password Manager
+Memory
+Use cases
+Operations
+Hiring Teams
+Sales
+Developers
+Researchers
+Resources
+Blog
+Changelog
+Docs
+Community
+Company
+About
+Careers
+Pricing
+Terms of Service
+Privacy Policy
+© 2026 Aside Computer Inc.

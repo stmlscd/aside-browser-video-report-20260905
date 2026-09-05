@@ -1,0 +1,20 @@
+{
+  "raw_cues": 791,
+  "parsed_nonempty_cues": 788,
+  "empty_cues": 3,
+  "empty_timings": [
+    "00:01:20.149 --> 00:01:20.159 align:start position:0%",
+    "00:09:45.110 --> 00:09:45.120 align:start position:0%",
+    "00:11:24.470 --> 00:11:24.480 align:start position:0%"
+  ],
+  "cleaned_cues": 396,
+  "reduction_from_raw_percent": 49.94,
+  "reduction_from_nonempty_percent": 49.75,
+  "payload_lines": 1180,
+  "unmatched_payload_lines": [],
+  "first_start": "00:00:00.320",
+  "last_end": "00:15:12.000",
+  "metadata_duration_seconds": 910,
+  "asr_overrun_seconds": 2,
+  "review": "396 cues read in order; all raw nonempty payload lines matched. No direct audio/frame verification."
+}

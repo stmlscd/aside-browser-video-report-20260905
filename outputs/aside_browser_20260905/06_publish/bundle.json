@@ -1,0 +1,47 @@
+[
+  {
+    "path": "assets/calendar-handoff-prompt.md",
+    "bytes": 1173,
+    "sha256": "8ca92eccd0ca893e11eab8c5306a851b16b37062c9c43aa0a78340b2f2fd8385"
+  },
+  {
+    "path": "assets/gmail-draft-prompt.md",
+    "bytes": 982,
+    "sha256": "07f95f743d5b9aeed9ddd62eda0283798887f96758fb4225971486c38e4fb93f"
+  },
+  {
+    "path": "assets/product-research-prompt.md",
+    "bytes": 1390,
+    "sha256": "9b56d8fe889d591f1ca23dc9e9b6a510004c3791570c4c18812e7e463d7fca6e"
+  },
+  {
+    "path": "assets/prompts.json",
+    "bytes": 3917,
+    "sha256": "8f45352e2ac2929bce096ab3c73124c7d1db9885b796f7dc3ac026cf38ce4701"
+  },
+  {
+    "path": "assets/report-data.js",
+    "bytes": 3886,
+    "sha256": "42e0ab40c0e0ee4ebfc3aea02237594d386cd4bec05b44eb08d4735fa2a239ca"
+  },
+  {
+    "path": "assets/report.css",
+    "bytes": 16447,
+    "sha256": "a6adf71d14dfc731203bce91f5407593783d73457dc8e9a642ac6208c481d45d"
+  },
+  {
+    "path": "assets/report.js",
+    "bytes": 3881,
+    "sha256": "68227b4736003600e820efd6bc7959c688b04d7e76751f4cb529fb5f1ebe6133"
+  },
+  {
+    "path": "assets/video.webp",
+    "bytes": 64570,
+    "sha256": "84009671db242aecdef9d83b291f3955500b0e887dfe568d07928871fb0354bb"
+  },
+  {
+    "path": "index.html",
+    "bytes": 55344,
+    "sha256": "ca519510b20e1438e7bdcb92154e3e5906e3db9e8ddab59d66fc926ece9925c9"
+  }
+]

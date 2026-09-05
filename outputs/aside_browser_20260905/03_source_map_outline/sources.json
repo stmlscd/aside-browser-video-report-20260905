@@ -1,0 +1,191 @@
+[
+  {
+    "id": "S01",
+    "title": "영상·한국어 자동 자막",
+    "grade": "영상 원자료",
+    "url": "https://www.youtube.com/watch?v=9ZzF5iGj0BM",
+    "path": "01_source_inventory/raw/9ZzF5iGj0BM.ko-orig.vtt",
+    "note": "자동 자막 발화 대조. 화면·오디오 직접 시청 및 결과 재현 아님.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S02",
+    "title": "사용자 제공 설명·수집 설명란",
+    "grade": "제작자·사용자 제공",
+    "url": "https://www.youtube.com/watch?v=9ZzF5iGj0BM",
+    "path": "01_source_inventory/raw/9ZzF5iGj0BM.description",
+    "note": "핵심 주제·타임라인·공식 URL. 오픈채팅의 별도 가이드는 미수집.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S03",
+    "title": "공개 영상 메타데이터",
+    "grade": "플랫폼 자료",
+    "url": "https://www.youtube.com/watch?v=9ZzF5iGj0BM",
+    "path": "01_source_inventory/raw/public-metadata.json",
+    "note": "15:10·게시일·채널·13개 챕터.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S04",
+    "title": "Get started",
+    "grade": "공식 도움말",
+    "url": "https://docs.aside.com/help/get-started",
+    "path": "01_source_inventory/raw/official/get-started.md",
+    "note": "macOS15+·계정·프로필 가져오기.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S05",
+    "title": "Run tasks",
+    "grade": "공식 도움말",
+    "url": "https://docs.aside.com/help/tasks",
+    "path": "01_source_inventory/raw/official/tasks.md",
+    "note": "사이트·파일·여러 단계·권한·Steer/Queue.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S06",
+    "title": "Set agent permissions",
+    "grade": "공식 도움말",
+    "url": "https://docs.aside.com/help/security",
+    "path": "01_source_inventory/raw/official/security.md",
+    "note": "Read only·Guard·Full access와 Allow/Ask/Deny.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S07",
+    "title": "Manage memory",
+    "grade": "공식 도움말",
+    "url": "https://docs.aside.com/help/memory",
+    "path": "01_source_inventory/raw/official/memory.md",
+    "note": "Overview·History·Configure와 기억 보존 기간.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S08",
+    "title": "Use Password Manager",
+    "grade": "공식 도움말",
+    "url": "https://docs.aside.com/help/password-manager",
+    "path": "01_source_inventory/raw/official/password-manager.md",
+    "note": "자동 채우기·URL 검사·MFA 등 사람 단계.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S09",
+    "title": "Configure password autofill",
+    "grade": "공식 도움말",
+    "url": "https://docs.aside.com/help/passwords",
+    "path": "01_source_inventory/raw/official/passwords.md",
+    "note": "AI 접근 정책·가져오기·암호화 동기화.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S10",
+    "title": "Configure AI providers",
+    "grade": "공식 도움말",
+    "url": "https://docs.aside.com/help/ai",
+    "path": "01_source_inventory/raw/official/ai.md",
+    "note": "Aside·Subscription·API의3가지 경로.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S11",
+    "title": "Manage your Aside subscription",
+    "grade": "공식 도움말",
+    "url": "https://docs.aside.com/help/subscription",
+    "path": "01_source_inventory/raw/official/subscription.md",
+    "note": "Aside 크레딧과 연결 제공자 비용을 구분.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S12",
+    "title": "Use routines",
+    "grade": "공식 도움말",
+    "url": "https://docs.aside.com/help/automation",
+    "path": "01_source_inventory/raw/official/automation.md",
+    "note": "Cron·Heartbeat·중첩 건너뛰기·제안 활성화.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S13",
+    "title": "Privacy Policy",
+    "grade": "공식 정책",
+    "url": "https://aside.com/policy/privacy",
+    "path": "01_source_inventory/raw/official/privacy-policy.html",
+    "note": "2026-06-23 정책. §4 모델이 보는 작업 맥락의 전송, §1 동기화·분석 시스템.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S14",
+    "title": "Manage privacy and local data",
+    "grade": "공식 도움말",
+    "url": "https://docs.aside.com/help/privacy",
+    "path": "01_source_inventory/raw/official/privacy.md",
+    "note": "Analytics sharing 기본 on, 기록·쿠키·기타 설정.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S15",
+    "title": "Use Aside as your browser",
+    "grade": "공식 도움말",
+    "url": "https://docs.aside.com/help/browser-basics",
+    "path": "01_source_inventory/raw/official/browser-basics.md",
+    "note": "Ask AI·페이지 선택·분할탭·단축키.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S16",
+    "title": "Use the side panel",
+    "grade": "공식 도움말",
+    "url": "https://docs.aside.com/help/side-panel",
+    "path": "01_source_inventory/raw/official/side-panel.md",
+    "note": "페이지 첨부와 요약·초안의 중지 경계 예시.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S17",
+    "title": "Use the CLI, MCP, and REPL",
+    "grade": "공식 도움말",
+    "url": "https://docs.aside.com/help/developers",
+    "path": "01_source_inventory/raw/official/developers.md",
+    "note": "aside 명령·aside mcp 서버·aside repl.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S18",
+    "title": "Components changelog",
+    "grade": "공식 변경 기록",
+    "url": "https://docs.aside.com/changelog/components",
+    "path": "01_source_inventory/raw/official/changelog-components.md",
+    "note": "2026-09-02 CLI skill 설치, 2026-07-11 외부 MCP 서버 설정.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S19",
+    "title": "Aside Browser changelog",
+    "grade": "공식 변경 기록",
+    "url": "https://docs.aside.com/changelog/native",
+    "path": "01_source_inventory/raw/official/changelog-native.md",
+    "note": "Windows 관련 구현 기록과 keep-tasks-running 설정 기록. 일반 출시 완료 증거와 구분.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S20",
+    "title": "Aside 홈페이지",
+    "grade": "공식 제품 소개",
+    "url": "https://aside.com/",
+    "path": "01_source_inventory/raw/official/home.html",
+    "note": "Real Work·자동 로그인·로컬 중심·벤치마크 홍보. 상세 도움말·정책을 우선 대조.",
+    "checked": "2026-09-05"
+  },
+  {
+    "id": "S21",
+    "title": "Aside 다운로드 안내",
+    "grade": "공식 배포 안내",
+    "url": "https://aside.com/download",
+    "path": "01_source_inventory/raw/official/download.html",
+    "note": "조회 시 macOS DMG 설치 안내. Windows 일반 배포 시점 확인되지 않음.",
+    "checked": "2026-09-05"
+  }
+]

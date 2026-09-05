@@ -1,0 +1,129 @@
+Aside | Privacy Policy
+Features
+Use cases
+Resources
+Pricing
+Download
+Privacy Policy
+Last updated: June 23, 2026
+Aside Computer Inc. ("Aside," "we," "us," or "our") makes Aside, an AI browser that can work across websites where you are already logged in. Aside also includes a password manager, browser automation tools, websites, applications, and paid or free plans. This policy calls all of that the "Services."
+Privacy matters more for a browser than it does for a normal web app. This policy explains the information we collect, what stays local, what can leave your device when you use a feature, and when we disclose information.
+For example, if you ask Aside to reserve a meeting room, fetch a tax transcript, draft a reply from a support queue, or fill out a workflow inside a logged-in website, Aside needs enough context to carry out that request. The exact data depends on the task.
+1. Information We Collect
+The information we collect depends on the features you use.
+Category
+Information
+When collected
+Where stored or processed
+Account
+User ID, name, email address, profile image URL, app version, plan, subscription status, account setup status, onboarding status, created-at timestamp, and updated-at timestamp.
+When you create, sign in to, or update an Aside account.
+Aside account systems.
+Authentication and devices
+Refresh token identifiers, token expiration, token rotation, token revocation, token last-used timestamps, device name, platform, app version, device public key metadata, device key fingerprint, and device last-seen timestamps.
+When you sign in, refresh a session, register a device, or revoke a device.
+Aside account systems.
+Product analytics
+Anonymous analytics ID, product events, page route, settings changes, selected model provider and model, error summaries, feature flag information, email address, plan, Aside component version, timezone, locale, operating system platform, operating system version, and device model.
+Only when analytics is enabled.
+PostHog and Aside analytics systems.
+Support, feedback, and business contact
+Name, email address, company, message, and attachments you choose to send.
+When you contact support, send feedback, or submit a business contact request.
+Intercom, email, and Aside support systems.
+Referrals
+Referral codes, referrer user IDs, claimed email addresses, referred user IDs, referral status, rejection reason, metadata, and related timestamps.
+When you create, share, claim, or complete a referral.
+Aside API systems.
+Billing and usage credits
+Stripe customer IDs, Stripe subscription IDs, Stripe payment intent IDs, plan, subscription status, billing interval, billing period dates, cancellation status, credit balances, credit ledger entries, auto-reload settings, paid amount, discount information, related billing metadata, and payment method display details such as card brand, last four digits, and expiration date.
+When you use paid plans, usage credits, checkout, subscriptions, or auto-reload.
+Stripe and Aside billing systems.
+Password manager sync
+Encrypted vault sync records, including encrypted payloads for vaults, vault keys, items, attachment metadata, and passkey credential records, plus sync metadata, versions, deletion status, and timestamps.
+When password manager sync is enabled.
+Aside sync systems.
+Account recovery
+Password-derived crypto metadata, encrypted recovery backup ciphertext, nonce, envelope version, and related timestamps.
+When you set up or update account recovery.
+Aside account systems.
+Browser sync
+Encrypted Chromium sync entity data and sync metadata. Synced entity types include bookmarks, history, history deletion directives, cookies, device info, and Nigori encryption metadata.
+When browser sync is enabled.
+Aside browser sync systems.
+Local task history
+Task metadata and model configuration.
+When you create or run an AI task.
+Your local Aside data directory.
+2. How We Collect Information
+We collect information when you create an account, sign in, subscribe to a plan, use billing features, enable analytics, submit a form, contact support, send feedback, create or run a task, use password manager sync, use browser sync, or save recovery information.
+Information can also come from service providers we use for authentication, payments, email delivery, analytics, customer support, feedback, and AI model access.
+3. How We Use Information
+We use information to run Aside. That means keeping accounts working, processing subscriptions, answering support requests, saving settings, and preserving the browser or vault state needed for the features you choose.
+For AI and browser features, we use information to carry out the task you requested, keep local task history, show task status, support follow-up instructions, and maintain memory and routine features when you enable or use them.
+We also use information to fix errors, measure reliability, prevent abuse, detect fraud, protect users and third parties, improve product quality, send service or billing messages, enforce our terms, comply with law, and respond to lawful requests.
+4. AI and Browser Features
+Aside is local-first. Account, billing, analytics, support, feedback, email, referral, password manager sync, browser sync, recovery backup, and hosted AI model features use server-side services.
+When you run an AI task, the model-visible task context can include your prompts, instructions, tool results, selected browser snapshots, selected screenshots, selected files, and assistant responses. Aside stores task transcripts and task artifacts locally. Hosted AI model providers receive the model-visible context needed to run the task. If you choose a third-party model or bring your own model or API key, that provider's terms and privacy policy can also apply.
+The same task may involve several systems. A local browser action may stay on your device. A hosted model request may send selected context to a model provider. A third-party website may receive the same information it would receive if you performed the action manually in the browser.
+We use product analytics and technical data to evaluate reliability, safety systems, performance, and product quality.
+5. How We Disclose Information
+We do not sell your personal information for money.
+We disclose information to vendors and processors that help run the Services. Those vendors include hosting, analytics, customer support, feedback, email delivery, payments, AI model providers, and content processing providers.
+Third-party websites, extensions, applications, model providers, payment processors, and other services can receive information when you choose to access, install, connect, or instruct Aside to use them. If a company, team, school, or other organization provides your account, its administrators may receive information tied to that account.
+We may also disclose information during a merger, acquisition, financing, reorganization, bankruptcy, or sale of assets. We may disclose information to law enforcement, regulators, courts, or other parties when we believe the law requires it or when disclosure is needed to protect rights, safety, security, or the integrity of the Services.
+Third-party websites, extensions, models, and services have their own terms, privacy policies, and security practices.
+6. Cookies and Similar Technologies
+We use cookies, local storage, pixels, device identifiers, and similar technologies to keep you signed in, remember preferences, measure performance, prevent abuse, and understand how the Services are used. Your browser may let you block or delete some cookies. Some features may not work after that.
+The browser may store third-party cookies, site data, and local storage for websites you visit. Those websites control their own cookies and tracking technologies.
+7. Retention
+We keep information as long as we reasonably need it to provide the Services, maintain security, comply with legal obligations, resolve disputes, process billing, and enforce agreements.
+When we no longer need information, we delete, de-identify, or aggregate it unless the law allows or requires us to keep it. If you delete your account or your account is terminated, you may lose access to settings, sync data, vault data, chats, files, usage history, and other data associated with the Services.
+8. Security
+We use reasonable administrative, technical, and physical safeguards to protect information. These safeguards may include encryption, access controls, audit logs, key management, local storage protections, and vendor security reviews.
+No method of transmission or storage is completely secure. You are responsible for protecting your account credentials, devices, recovery keys, API keys, browser profile, and vault access. If you bring your own secret key or model key, we may not be able to recover it for you.
+If you believe you have discovered a vulnerability, security incident, or unauthorized access involving the Services, contact us at
+security@asidehq.com
+. We will provide notices of security incidents as required by applicable law.
+9. Your Choices and Rights
+Your privacy rights depend on the law that applies to you. You may have rights to access, correct, delete, or port your personal information, and to object to or restrict certain processing. You can also adjust browser permissions, cookie settings, extension permissions, sync settings, AI feature settings, memory settings, and password manager access controls.
+We may need to verify your identity before completing a request. We may decline or limit a request where permitted by law, including when we need information for security, fraud prevention, legal compliance, dispute resolution, billing, enforcement, or to protect the rights of others.
+10. California Privacy Notice
+California law may provide California residents with specific rights regarding personal information, including the right to know, access, delete, correct, opt out of certain sales or sharing, limit certain uses of sensitive personal information, and not be discriminated against for exercising privacy rights.
+The categories of personal information we may collect are described in Section 1. The sources of information are described in Section 2. The purposes for collection and use are described in Section 3. The categories of recipients to whom we disclose information are described in Section 5.
+Sensitive personal information may include account credentials, encrypted password manager sync records, payment-related information, account access records, browser sync records, and the contents of communications or files where you provide them to the Services. We use sensitive personal information to provide requested features, maintain security, process payments, prevent abuse, and comply with law.
+We do not knowingly sell personal information for money. If we engage in activity that California law treats as a "sale" or "sharing" of personal information, we will provide the required notice and opt-out mechanism. Where required, we will honor browser-based opt-out preference signals, including the Global Privacy Control.
+11. Children
+The Services are not directed to children under 13. Children under 13 may not create an account or use the Services. We do not knowingly collect personal information from children under 13. If we learn that we collected personal information from a child under 13, we may delete the information and suspend or terminate the account. If you believe a child provided personal information to us, please contact us.
+12. Changes to This Policy
+We may update this Privacy Policy. If we make material changes, we will provide notice by posting the updated policy, sending an email, providing an in-product notice, or using another reasonable method. If a change materially expands how we use previously collected personal information, we will provide notice or obtain consent where required by law.
+13. Contact
+Send questions or requests about this Privacy Policy to:
+Aside Computer Inc.
+45 Lansing St, San Francisco, CA 94105
+support@aside.com
+Crafted for both human and agent.
+Start using today.
+Download
+Features
+Browser agent
+Password Manager
+Memory
+Use cases
+Operations
+Hiring Teams
+Sales
+Developers
+Researchers
+Resources
+Blog
+Changelog
+Docs
+Community
+Company
+About
+Careers
+Pricing
+Terms of Service
+Privacy Policy
+© 2026 Aside Computer Inc.

@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "get-started",
+    "url": "https://docs.aside.com/help/get-started.md",
+    "final_url": "https://docs.aside.com/help/get-started.md",
+    "file": "get-started.md",
+    "http": 200,
+    "bytes": 1977,
+    "sha256": "e4f331bfd98d755c96f46f8c18ccca387c1409752bf767ae27595f6784793a07",
+    "checked_at": "2026-09-05T13:20:53.284998+00:00"
+  },
+  {
+    "slug": "subscription",
+    "url": "https://docs.aside.com/help/subscription.md",
+    "final_url": "https://docs.aside.com/help/subscription.md",
+    "file": "subscription.md",
+    "http": 200,
+    "bytes": 2749,
+    "sha256": "a287555d1c854266257b59b4848448356e3af3f39cd310ad355cc412ce943687",
+    "checked_at": "2026-09-05T13:20:53.457162+00:00"
+  },
+  {
+    "slug": "browser-basics",
+    "url": "https://docs.aside.com/help/browser-basics.md",
+    "final_url": "https://docs.aside.com/help/browser-basics.md",
+    "file": "browser-basics.md",
+    "http": 200,
+    "bytes": 3688,
+    "sha256": "0903d32bf2932aca75e0c1fd625d0669fee87c9bc50c9e942cfe3a88c263bda3",
+    "checked_at": "2026-09-05T13:20:53.456932+00:00"
+  },
+  {
+    "slug": "tasks",
+    "url": "https://docs.aside.com/help/tasks.md",
+    "final_url": "https://docs.aside.com/help/tasks.md",
+    "file": "tasks.md",
+    "http": 200,
+    "bytes": 3487,
+    "sha256": "7677ca47f310d54d01f8ba88c18cfb4d83913424cd861679dc3a11b446ac9417",
+    "checked_at": "2026-09-05T13:20:53.464746+00:00"
+  },
+  {
+    "slug": "side-panel",
+    "url": "https://docs.aside.com/help/side-panel.md",
+    "final_url": "https://docs.aside.com/help/side-panel.md",
+    "file": "side-panel.md",
+    "http": 200,
+    "bytes": 3114,
+    "sha256": "b3c94224d09586951f2b35d2dcec48e893652a375090f617046f499db9608dd5",
+    "checked_at": "2026-09-05T13:20:53.789685+00:00"
+  },
+  {
+    "slug": "automation",
+    "url": "https://docs.aside.com/help/automation.md",
+    "final_url": "https://docs.aside.com/help/automation.md",
+    "file": "automation.md",
+    "http": 200,
+    "bytes": 1705,
+    "sha256": "4f835bdea0874f1cd665c62b51d7215558351f30d22692bcfcdf5d4a38872be4",
+    "checked_at": "2026-09-05T13:20:53.965571+00:00"
+  },
+  {
+    "slug": "memory",
+    "url": "https://docs.aside.com/help/memory.md",
+    "final_url": "https://docs.aside.com/help/memory.md",
+    "file": "memory.md",
+    "http": 200,
+    "bytes": 1250,
+    "sha256": "fdf5e07ac606064cb86fb27cfb65eff3f0999493aa99d7bc62f2d7b465b83164",
+    "checked_at": "2026-09-05T13:20:54.014850+00:00"
+  },
+  {
+    "slug": "password-manager",
+    "url": "https://docs.aside.com/help/password-manager.md",
+    "final_url": "https://docs.aside.com/help/password-manager.md",
+    "file": "password-manager.md",
+    "http": 200,
+    "bytes": 3421,
+    "sha256": "089adb78ecf2a23650bca09d8bf5c0df5a21e3b2e1832cf5c4a438384e84d14a",
+    "checked_at": "2026-09-05T13:20:53.953508+00:00"
+  },
+  {
+    "slug": "passwords",
+    "url": "https://docs.aside.com/help/passwords.md",
+    "final_url": "https://docs.aside.com/help/passwords.md",
+    "file": "passwords.md",
+    "http": 200,
+    "bytes": 3155,
+    "sha256": "7f78b1041eda50eb28fb2688474d026d0fcb2b3f5a43b2c879392a3eece3f1a0",
+    "checked_at": "2026-09-05T13:20:54.277560+00:00"
+  },
+  {
+    "slug": "ai",
+    "url": "https://docs.aside.com/help/ai.md",
+    "final_url": "https://docs.aside.com/help/ai.md",
+    "file": "ai.md",
+    "http": 200,
+    "bytes": 2713,
+    "sha256": "1728b649544ad5fb4b9f88602af9e889447d9e3adf2ff3aa320881b0f25cde47",
+    "checked_at": "2026-09-05T13:20:54.340150+00:00"
+  },
+  {
+    "slug": "privacy",
+    "url": "https://docs.aside.com/help/privacy.md",
+    "final_url": "https://docs.aside.com/help/privacy.md",
+    "file": "privacy.md",
+    "http": 200,
+    "bytes": 1925,
+    "sha256": "7d2130d71189834f20ba273ad45d7cbbece6be99753b53ad58ae8718d7d4b7f5",
+    "checked_at": "2026-09-05T13:20:54.274238+00:00"
+  },
+  {
+    "slug": "security",
+    "url": "https://docs.aside.com/help/security.md",
+    "final_url": "https://docs.aside.com/help/security.md",
+    "file": "security.md",
+    "http": 200,
+    "bytes": 2416,
+    "sha256": "1a499e51eb260b68066be8b9d36a6ff7b1bb6273b37720e1b461d88d2ccb26fb",
+    "checked_at": "2026-09-05T13:20:54.363390+00:00"
+  },
+  {
+    "slug": "troubleshooting",
+    "url": "https://docs.aside.com/help/troubleshooting.md",
+    "final_url": "https://docs.aside.com/help/troubleshooting.md",
+    "file": "troubleshooting.md",
+    "http": 200,
+    "bytes": 4723,
+    "sha256": "4d9d02be026ff81d55a1c8c089b83ca91fe52b8d3ba1842058f43cdb5e3f58be",
+    "checked_at": "2026-09-05T13:20:54.643525+00:00"
+  },
+  {
+    "slug": "developers",
+    "url": "https://docs.aside.com/help/developers.md",
+    "final_url": "https://docs.aside.com/help/developers.md",
+    "file": "developers.md",
+    "http": 200,
+    "bytes": 2920,
+    "sha256": "95c0bf3a5c09006a064b071bbda5b992ae21699148ec4768c8c9072afaff6b5b",
+    "checked_at": "2026-09-05T13:20:54.749789+00:00"
+  },
+  {
+    "slug": "home",
+    "url": "https://aside.com/",
+    "final_url": "https://aside.com/",
+    "file": "home.html",
+    "http": 200,
+    "bytes": 286438,
+    "sha256": "78bb730e4ae2bea10632b338ad5163d769d2d95a3902dfcc46d362417894b52e",
+    "checked_at": "2026-09-05T13:20:54.390117+00:00"
+  },
+  {
+    "slug": "privacy-policy",
+    "url": "https://aside.com/policy/privacy",
+    "final_url": "https://aside.com/policy/privacy",
+    "file": "privacy-policy.html",
+    "http": 200,
+    "bytes": 97804,
+    "sha256": "d1cf7a18a00ff9b253ed8c1f04aa2e7fd390a1d3055cfd5e021c930fc70050e0",
+    "checked_at": "2026-09-05T13:20:54.411107+00:00"
+  },
+  {
+    "slug": "terms",
+    "url": "https://aside.com/policy/terms",
+    "final_url": "https://aside.com/policy/terms",
+    "file": "terms.html",
+    "http": 200,
+    "bytes": 107191,
+    "sha256": "dafa34d0abd3dc468f8bc2c5dedc0fe2dc93621d9b258b64657abf12c84562eb",
+    "checked_at": "2026-09-05T13:20:54.436097+00:00"
+  },
+  {
+    "slug": "docs-index",
+    "url": "https://docs.aside.com/llms.txt",
+    "final_url": "https://docs.aside.com/llms.txt",
+    "file": "docs-index.md",
+    "http": 200,
+    "bytes": 2547,
+    "sha256": "879561cfa771a7d603defb49aace384019c8876be6231b31f2487d6f63c03b9d",
+    "checked_at": "2026-09-05T13:20:54.455817+00:00"
+  }
+]
