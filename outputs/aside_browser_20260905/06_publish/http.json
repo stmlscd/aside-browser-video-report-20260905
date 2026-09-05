@@ -1,0 +1,91 @@
+{
+  "pass": true,
+  "checked_at": "2026-09-05T13:57:54.440689+00:00",
+  "files": [
+    {
+      "path": "index.html",
+      "url": "https://stmlscd.github.io/codex_utilization/aside-browser-20260905/index.html",
+      "status": 200,
+      "bytes": 55344,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "ca519510b20e1438e7bdcb92154e3e5906e3db9e8ddab59d66fc926ece9925c9",
+      "local_equal": true
+    },
+    {
+      "path": "assets/gmail-draft-prompt.md",
+      "url": "https://stmlscd.github.io/codex_utilization/aside-browser-20260905/assets/gmail-draft-prompt.md",
+      "status": 200,
+      "bytes": 982,
+      "content_type": "text/markdown; charset=utf-8",
+      "sha256": "07f95f743d5b9aeed9ddd62eda0283798887f96758fb4225971486c38e4fb93f",
+      "local_equal": true
+    },
+    {
+      "path": "assets/video.webp",
+      "url": "https://stmlscd.github.io/codex_utilization/aside-browser-20260905/assets/video.webp",
+      "status": 200,
+      "bytes": 64570,
+      "content_type": "image/webp",
+      "sha256": "84009671db242aecdef9d83b291f3955500b0e887dfe568d07928871fb0354bb",
+      "local_equal": true
+    },
+    {
+      "path": "assets/report-data.js",
+      "url": "https://stmlscd.github.io/codex_utilization/aside-browser-20260905/assets/report-data.js",
+      "status": 200,
+      "bytes": 3886,
+      "content_type": "application/javascript; charset=utf-8",
+      "sha256": "42e0ab40c0e0ee4ebfc3aea02237594d386cd4bec05b44eb08d4735fa2a239ca",
+      "local_equal": true
+    },
+    {
+      "path": "assets/calendar-handoff-prompt.md",
+      "url": "https://stmlscd.github.io/codex_utilization/aside-browser-20260905/assets/calendar-handoff-prompt.md",
+      "status": 200,
+      "bytes": 1173,
+      "content_type": "text/markdown; charset=utf-8",
+      "sha256": "8ca92eccd0ca893e11eab8c5306a851b16b37062c9c43aa0a78340b2f2fd8385",
+      "local_equal": true
+    },
+    {
+      "path": "assets/prompts.json",
+      "url": "https://stmlscd.github.io/codex_utilization/aside-browser-20260905/assets/prompts.json",
+      "status": 200,
+      "bytes": 3917,
+      "content_type": "application/json; charset=utf-8",
+      "sha256": "8f45352e2ac2929bce096ab3c73124c7d1db9885b796f7dc3ac026cf38ce4701",
+      "local_equal": true
+    },
+    {
+      "path": "assets/report.css",
+      "url": "https://stmlscd.github.io/codex_utilization/aside-browser-20260905/assets/report.css",
+      "status": 200,
+      "bytes": 16447,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "a6adf71d14dfc731203bce91f5407593783d73457dc8e9a642ac6208c481d45d",
+      "local_equal": true
+    },
+    {
+      "path": "assets/report.js",
+      "url": "https://stmlscd.github.io/codex_utilization/aside-browser-20260905/assets/report.js",
+      "status": 200,
+      "bytes": 3881,
+      "content_type": "application/javascript; charset=utf-8",
+      "sha256": "68227b4736003600e820efd6bc7959c688b04d7e76751f4cb529fb5f1ebe6133",
+      "local_equal": true
+    },
+    {
+      "path": "assets/product-research-prompt.md",
+      "url": "https://stmlscd.github.io/codex_utilization/aside-browser-20260905/assets/product-research-prompt.md",
+      "status": 200,
+      "bytes": 1390,
+      "content_type": "text/markdown; charset=utf-8",
+      "sha256": "9b56d8fe889d591f1ca23dc9e9b6a510004c3791570c4c18812e7e463d7fca6e",
+      "local_equal": true
+    }
+  ],
+  "catalog": {
+    "status": 200,
+    "new_link_present": true
+  }
+}

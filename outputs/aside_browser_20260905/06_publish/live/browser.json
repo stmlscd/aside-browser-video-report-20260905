@@ -1,0 +1,135 @@
+{
+  "pass": true,
+  "url": "https://stmlscd.github.io/codex_utilization/aside-browser-20260905/",
+  "http": 200,
+  "environment": "Playwright + Google Chrome / macOS; reduced motion",
+  "desktop": {
+    "title": "Aside AI 브라우저 — 탭 사이의 일을, 하나의 요청으로",
+    "lang": "ko",
+    "clientWidth": 1440,
+    "scrollWidth": 1440,
+    "images": [
+      {
+        "src": "assets/video.webp",
+        "width": 1280,
+        "height": 720,
+        "loaded": true
+      }
+    ],
+    "brokenAnchors": [],
+    "duplicateIds": []
+  },
+  "mobile": {
+    "title": "Aside AI 브라우저 — 탭 사이의 일을, 하나의 요청으로",
+    "lang": "ko",
+    "clientWidth": 390,
+    "scrollWidth": 390,
+    "images": [
+      {
+        "src": "assets/video.webp",
+        "width": 1280,
+        "height": 720,
+        "loaded": true
+      }
+    ],
+    "brokenAnchors": [],
+    "duplicateIds": []
+  },
+  "responsive": [
+    {
+      "title": "Aside AI 브라우저 — 탭 사이의 일을, 하나의 요청으로",
+      "lang": "ko",
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "images": [
+        {
+          "src": "assets/video.webp",
+          "width": 1280,
+          "height": 720,
+          "loaded": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": []
+    },
+    {
+      "title": "Aside AI 브라우저 — 탭 사이의 일을, 하나의 요청으로",
+      "lang": "ko",
+      "clientWidth": 768,
+      "scrollWidth": 768,
+      "images": [
+        {
+          "src": "assets/video.webp",
+          "width": 1280,
+          "height": 720,
+          "loaded": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": []
+    }
+  ],
+  "interactions": {
+    "filterCounts": {
+      "보정": 4,
+      "미확정": 4,
+      "공식 확인": 10,
+      "영상 주장": 5,
+      "분석/권고": 1,
+      "전체": 24
+    },
+    "hiddenClaimRevealed": true,
+    "prompts": {
+      "research": {
+        "title": "상품 조사 → Sheets",
+        "href": "assets/product-research-prompt.md",
+        "status": 200,
+        "bodyNonempty": true,
+        "downloadExact": true,
+        "clipboardExact": true,
+        "pressed": "true"
+      },
+      "email": {
+        "title": "Gmail 초안",
+        "href": "assets/gmail-draft-prompt.md",
+        "status": 200,
+        "bodyNonempty": true,
+        "downloadExact": true,
+        "clipboardExact": true,
+        "pressed": "true"
+      },
+      "calendar": {
+        "title": "Gmail → Calendar",
+        "href": "assets/calendar-handoff-prompt.md",
+        "status": 200,
+        "bodyNonempty": true,
+        "downloadExact": true,
+        "clipboardExact": true,
+        "pressed": "true"
+      }
+    },
+    "modes": {
+      "read": "Read only · 맥락 확인부터",
+      "full": "Full access · 파일 읽기·쓰기 범위 확대",
+      "guard": "Guard · 승인된 폴더부터"
+    },
+    "tableModes": [
+      "Read only",
+      "Guard",
+      "Full access"
+    ],
+    "checked": "1 / 7 완료",
+    "reset": "0 / 7 완료",
+    "timelineOpens": true,
+    "mobileMenuWorks": true,
+    "mobilePrompt": true,
+    "mobileFilter": 4,
+    "keyboardFirst": "본문으로 건너뛰기",
+    "skipWorks": true,
+    "nojsClaims": 24,
+    "nojsPromptPresent": true,
+    "nojsDownloads": 3
+  },
+  "errors": [],
+  "bad": []
+}
